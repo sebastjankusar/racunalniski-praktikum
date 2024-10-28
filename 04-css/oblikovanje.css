@@ -31,3 +31,25 @@ code {
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color: #009966;
 }
+
+hi {
+    color: #330066;
+}
+
+h2 {
+    margin-top: 2em;
+    border-top: 1px;
+    border-top: #AAAAAA;
+    border-top: solid;
+    padding-top: 0.5cm;
+}
+
+#uvod {
+    padding: 2cm;
+    background-color: rgb(51, 0, 102, 0.1);
+}
+
+div {
+    outline: #cc0000;
+    outline-width: 0.5cm;
+}
