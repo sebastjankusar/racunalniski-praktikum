@@ -50,6 +50,7 @@ h2 {
 }
 
 div {
-    outline: #cc0000;
-    outline-width: 5cm;
+    border: 2px solid black;
+  outline-style: solid;
+  outline-color: red;
 }
